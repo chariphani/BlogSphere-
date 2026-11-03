@@ -40,7 +40,8 @@ export default function Footer() {
         </div>
       </div>
       <div className="relative border-t border-white/10 py-5 text-center text-xs text-slate-400">
-        © {new Date().getFullYear()} BlogSphere. Built for curious minds.
+        © {new Date().getFullYear()} BlogSphere. All rights reserved. Made with
+        ❤️ by Phanindhra Chari.
       </div>
     </footer>
   );
